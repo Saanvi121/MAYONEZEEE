@@ -1,0 +1,27 @@
+body
+{
+    background-color: rgb(255, 16, 243);
+}
+
+.headingShade
+{
+    color: rgb(252, 7, 129);
+    background-color: rgb(144, 220, 255);
+    width: 80%;
+    font-size:xx-large;
+    font-family: 'Chango', cursive;
+    border-left-color: rgb(18, 1, 255); border-left-width: 10px;
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: rgb(3, 50, 112);
+  }
+
+  #camera
+  {
+      width: 270px;
+      height: 270px;
+      border-color: rgb(17, 0, 255);
+      border-style: outset;
+      box-shadow:-8px 8px 10px rgb(55, 0, 255);
+  }
